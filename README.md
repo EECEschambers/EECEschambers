@@ -74,7 +74,9 @@ Built SQL/Python pipelines connecting wafer-sort and final-test measurements acr
 
 </details>
 
-<img src="04-toolkit-and-learning.png" width="100%" alt="Technical Toolkit and Currently Learning illustrated panels" />
+<img src="assets/headers/toolkit.svg" width="100%" alt="🛠️ My Technical Toolkit" />
+
+<img src="assets/panels/toolkit-panel.svg" width="100%" alt="toolkit illustrated pink cards" />
 
 <details>
 <summary>View technical skills as text</summary>
@@ -87,7 +89,9 @@ Built SQL/Python pipelines connecting wafer-sort and final-test measurements acr
 
 </details>
 
+<img src="assets/headers/learning.svg" width="100%" alt="🌱 Currently Learning" />
 
+<img src="assets/panels/learning-panel.svg" width="100%" alt="learning illustrated pink cards" />
 
 <details>
 <summary>View learning goals as text</summary>
