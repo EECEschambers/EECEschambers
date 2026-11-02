@@ -115,7 +115,7 @@ Built SQL/Python pipelines connecting wafer-sort and final-test measurements acr
   <a href="https://github.com/EECEschambers?tab=overview"><img src="https://img.shields.io/badge/View_GitHub_Activity-D9B4F0?style=for-the-badge&amp;logo=github&amp;logoColor=282033" alt="View GitHub activity" /></a>
 </p>
 
-<sub>GitHub contribution and language statistics may omit private work, so I showcase my projects and experience directly.</sub>
+
 
 </div>
 
