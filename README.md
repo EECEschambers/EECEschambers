@@ -27,6 +27,11 @@ Outside of engineering, you'll probably find me watching anime, playing basketba
 
 <img src="assets/headers/journey.svg" width="100%" alt="💼 My Engineering Journey" />
 
+<img src="assets/panels/journey-cards.svg" width="100%" alt="journey illustrated pink cards" />
+
+<details>
+<summary>View internship details</summary>
+
 | Organization | Experience |
 |---|---|
 | **Amazon Web Services, Annapurna Labs** | AI semiconductor characterization and yield analysis |
@@ -37,7 +42,14 @@ Outside of engineering, you'll probably find me watching anime, playing basketba
 
 Each experience has introduced me to a different side of engineering, challenged what I thought I knew, and given me another reason to keep learning.
 
+</details>
+
 <img src="assets/headers/projects.svg" width="100%" alt="💻 Featured Projects" />
+
+<img src="assets/panels/project-cards.svg" width="100%" alt="projects illustrated pink cards" />
+
+<details>
+<summary>Read project descriptions and links</summary>
 
 ### 👁️ [Eye-Gaze Assistive Device](https://github.com/EECEschambers/Senior-Design---Eye-Gazer-Project)
 
@@ -59,7 +71,14 @@ Built SQL/Python pipelines connecting wafer-sort and final-test measurements acr
 
 `Python` `SQL` `AWS` `Streamlit` `Plotly` `Statistical Analysis`
 
+</details>
+
 <img src="assets/headers/toolkit.svg" width="100%" alt="🛠️ My Technical Toolkit" />
+
+<img src="assets/panels/toolkit-panel.svg" width="100%" alt="toolkit illustrated pink cards" />
+
+<details>
+<summary>View technical skills as text</summary>
 
 **Programming & Data:** Python · C · C++ · SQL · MATLAB
 
@@ -67,7 +86,14 @@ Built SQL/Python pipelines connecting wafer-sort and final-test measurements acr
 
 **Engineering Interests:** AI/ML · Embedded Systems · Computer Architecture · Operating Systems · GPU Computing · Semiconductor Validation
 
+</details>
+
 <img src="assets/headers/learning.svg" width="100%" alt="🌱 Currently Learning" />
+
+<img src="assets/panels/learning-panel.svg" width="100%" alt="learning illustrated pink cards" />
+
+<details>
+<summary>View learning goals as text</summary>
 
 - GPU and parallel computing
 - Data structures and algorithms with C++
@@ -76,6 +102,8 @@ Built SQL/Python pipelines connecting wafer-sort and final-test measurements acr
 - Linux, Docker, Kubernetes, and cloud deployment
 
 *My goal is to understand not just how to use technology, but how and why it works.*
+
+</details>
 
 <img src="assets/headers/stats.svg" width="100%" alt="📊 GitHub Activity" />
 
@@ -99,6 +127,11 @@ Built SQL/Python pipelines connecting wafer-sort and final-test measurements acr
 
 <img src="assets/headers/beyond.svg" width="100%" alt="🌸 Beyond Engineering" />
 
+<img src="assets/panels/beyond-panel.svg" width="100%" alt="beyond illustrated pink cards" />
+
+<details>
+<summary>View personal interests as text</summary>
+
 ⚔️ **Favorite anime:** Demon Slayer
 
 🏀 **Favorite sport:** Basketball
@@ -106,6 +139,8 @@ Built SQL/Python pipelines connecting wafer-sort and final-test measurements acr
 🌶️ **Favorite food:** Anything spicy!
 
 💗 **Something I believe:** Curiosity can take you places you never imagined.
+
+</details>
 
 ---
 
