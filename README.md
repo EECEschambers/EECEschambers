@@ -110,9 +110,12 @@ Built SQL/Python pipelines connecting wafer-sort and final-test measurements acr
 
 <div align="center">
 
-<a href="https://github.com/EECEschambers?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EECEschambers&amp;theme=dracula" width="48%" alt="GitHub activity statistics" /></a>
+<p align="center">
+  <a href="https://github.com/EECEschambers?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Repositories-F4A6CD?style=for-the-badge&amp;logo=github&amp;logoColor=282033" alt="Explore my repositories" /></a>
+  <a href="https://github.com/EECEschambers?tab=overview"><img src="https://img.shields.io/badge/View_GitHub_Activity-D9B4F0?style=for-the-badge&amp;logo=github&amp;logoColor=282033" alt="View GitHub activity" /></a>
+</p>
 
-<a href="https://github.com/EECEschambers?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EECEschambers&amp;theme=dracula" width="48%" alt="Languages in public repositories" /></a>
+<sub>GitHub contribution and language statistics may omit private work, so I showcase my projects and experience directly.</sub>
 
 </div>
 
