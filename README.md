@@ -129,7 +129,7 @@ Built SQL/Python pipelines connecting wafer-sort and final-test measurements acr
 
 </div>
 
-<img src="05-beyond-engineering.png" width="100%" alt="Beyond Engineering anime basketball and spicy food illustrated panel" />
+<img src="ChatGPT%20Image%20Nov%202%2C%202026%2C%2001_57_48%20PM.png" width="100%" alt="Beyond Engineering: Demon Slayer, basketball, and spicy food illustrated panel" />
 
 <details>
 <summary>View personal interests as text</summary>
