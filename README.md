@@ -74,7 +74,7 @@ Built SQL/Python pipelines connecting wafer-sort and final-test measurements acr
 
 </details>
 
-<img src="assets/headers/toolkit.svg" width="100%" alt="🛠️ My Technical Toolkit" />
+<img src="assets/headers/toolkit.svg" width="62%" alt="🛠️ My Technical Toolkit" />
 
 <img src="assets/panels/toolkit-panel.svg" width="100%" alt="toolkit illustrated pink cards" />
 
@@ -89,7 +89,7 @@ Built SQL/Python pipelines connecting wafer-sort and final-test measurements acr
 
 </details>
 
-<img src="assets/headers/learning.svg" width="100%" alt="🌱 Currently Learning" />
+<img src="assets/headers/learning.svg" width="62%" alt="🌱 Currently Learning" />
 
 <img src="assets/panels/learning-panel.svg" width="100%" alt="learning illustrated pink cards" />
 
@@ -106,17 +106,17 @@ Built SQL/Python pipelines connecting wafer-sort and final-test measurements acr
 
 </details>
 
-<img src="assets/headers/stats.svg" width="100%" alt="📊 GitHub Activity" />
+<img src="assets/headers/stats.svg" width="62%" alt="📊 GitHub Activity" />
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EECEschambers&amp;show_icons=true&amp;bg_color=241B34&amp;title_color=F5B3D7&amp;text_color=FFE6F3&amp;icon_color=EBA1C9&amp;border_color=C879A9&amp;hide_border=false" alt="GitHub statistics" />
+<a href="https://github.com/EECEschambers?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EECEschambers&amp;theme=dracula" width="48%" alt="GitHub activity statistics" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EECEschambers&amp;layout=compact&amp;bg_color=241B34&amp;title_color=F5B3D7&amp;text_color=FFE6F3&amp;icon_color=EBA1C9&amp;border_color=C879A9&amp;hide_border=false" alt="Most used public repository languages" />
+<a href="https://github.com/EECEschambers?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EECEschambers&amp;theme=dracula" width="48%" alt="Languages in public repositories" /></a>
 
 </div>
 
-<img src="assets/headers/koi.svg" width="100%" alt="🐟 My GitHub Koi" />
+<img src="assets/headers/koi.svg" width="62%" alt="🐟 My GitHub Koi" />
 
 <div align="center">
 
