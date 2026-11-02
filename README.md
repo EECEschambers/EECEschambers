@@ -15,7 +15,7 @@
 
 ---
 
-## 🌷 A Little About Me
+<img src="assets/headers/about.svg" width="100%" alt="🌷 A Little About Me" />
 
 I'm pursuing dual degrees in **Electrical Engineering and Computer Engineering** at the **University of Michigan-Dearborn**.
 
@@ -25,7 +25,7 @@ I'm especially interested in AI/ML, machine learning infrastructure, GPU computi
 
 Outside of engineering, you'll probably find me watching anime, playing basketball, or looking for something spicy to eat! 🌶️
 
-## 💼 My Engineering Journey
+<img src="assets/headers/journey.svg" width="100%" alt="💼 My Engineering Journey" />
 
 | Organization | Experience |
 |---|---|
@@ -37,7 +37,7 @@ Outside of engineering, you'll probably find me watching anime, playing basketba
 
 Each experience has introduced me to a different side of engineering, challenged what I thought I knew, and given me another reason to keep learning.
 
-## 💻 Featured Projects
+<img src="assets/headers/projects.svg" width="100%" alt="💻 Featured Projects" />
 
 ### 👁️ [Eye-Gaze Assistive Device](https://github.com/EECEschambers/Senior-Design---Eye-Gazer-Project)
 
@@ -59,7 +59,7 @@ Built SQL/Python pipelines connecting wafer-sort and final-test measurements acr
 
 `Python` `SQL` `AWS` `Streamlit` `Plotly` `Statistical Analysis`
 
-## 🛠️ My Technical Toolkit
+<img src="assets/headers/toolkit.svg" width="100%" alt="🛠️ My Technical Toolkit" />
 
 **Programming & Data:** Python · C · C++ · SQL · MATLAB
 
@@ -67,7 +67,7 @@ Built SQL/Python pipelines connecting wafer-sort and final-test measurements acr
 
 **Engineering Interests:** AI/ML · Embedded Systems · Computer Architecture · Operating Systems · GPU Computing · Semiconductor Validation
 
-## 🌱 Currently Learning
+<img src="assets/headers/learning.svg" width="100%" alt="🌱 Currently Learning" />
 
 - GPU and parallel computing
 - Data structures and algorithms with C++
@@ -77,17 +77,17 @@ Built SQL/Python pipelines connecting wafer-sort and final-test measurements acr
 
 *My goal is to understand not just how to use technology, but how and why it works.*
 
-## 📊 GitHub Activity
+<img src="assets/headers/stats.svg" width="100%" alt="📊 GitHub Activity" />
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EECEschambers&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=EECEschambers&amp;show_icons=true&amp;bg_color=241B34&amp;title_color=F5B3D7&amp;text_color=FFE6F3&amp;icon_color=EBA1C9&amp;border_color=C879A9&amp;hide_border=false" alt="GitHub statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EECEschambers&amp;layout=compact&amp;theme=radical&amp;hide_border=true" alt="Most used public repository languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EECEschambers&amp;layout=compact&amp;bg_color=241B34&amp;title_color=F5B3D7&amp;text_color=FFE6F3&amp;icon_color=EBA1C9&amp;border_color=C879A9&amp;hide_border=false" alt="Most used public repository languages" />
 
 </div>
 
-## 🐟 My GitHub Koi
+<img src="assets/headers/koi.svg" width="100%" alt="🐟 My GitHub Koi" />
 
 <div align="center">
 
@@ -97,7 +97,7 @@ Built SQL/Python pipelines connecting wafer-sort and final-test measurements acr
 
 </div>
 
-## 🌸 Beyond Engineering
+<img src="assets/headers/beyond.svg" width="100%" alt="🌸 Beyond Engineering" />
 
 ⚔️ **Favorite anime:** Demon Slayer
 
