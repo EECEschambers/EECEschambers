@@ -15,7 +15,10 @@
 
 ---
 
-<img src="assets/headers/about.svg" width="100%" alt="🌷 A Little About Me" />
+<img src="01-about-me.png" width="100%" alt="About Me illustrated cherry blossom panel" />
+
+<details>
+<summary>Read more about me</summary>
 
 I'm pursuing dual degrees in **Electrical Engineering and Computer Engineering** at the **University of Michigan-Dearborn**.
 
@@ -25,9 +28,9 @@ I'm especially interested in AI/ML, machine learning infrastructure, GPU computi
 
 Outside of engineering, you'll probably find me watching anime, playing basketball, or looking for something spicy to eat! 🌶️
 
-<img src="assets/headers/journey.svg" width="100%" alt="💼 My Engineering Journey" />
+</details>
 
-<img src="assets/panels/journey-cards.svg" width="100%" alt="journey illustrated pink cards" />
+<img src="02-engineering-journey.png" width="100%" alt="Engineering Journey illustrated timeline with company logos" />
 
 <details>
 <summary>View internship details</summary>
@@ -44,9 +47,7 @@ Each experience has introduced me to a different side of engineering, challenged
 
 </details>
 
-<img src="assets/headers/projects.svg" width="100%" alt="💻 Featured Projects" />
-
-<img src="assets/panels/project-cards.svg" width="100%" alt="projects illustrated pink cards" />
+<img src="03-featured-projects.png" width="100%" alt="Featured Projects illustrated pink cards" />
 
 <details>
 <summary>Read project descriptions and links</summary>
@@ -73,9 +74,7 @@ Built SQL/Python pipelines connecting wafer-sort and final-test measurements acr
 
 </details>
 
-<img src="assets/headers/toolkit.svg" width="100%" alt="🛠️ My Technical Toolkit" />
-
-<img src="assets/panels/toolkit-panel.svg" width="100%" alt="toolkit illustrated pink cards" />
+<img src="04-toolkit-and-learning.png" width="100%" alt="Technical Toolkit and Currently Learning illustrated panels" />
 
 <details>
 <summary>View technical skills as text</summary>
@@ -88,9 +87,7 @@ Built SQL/Python pipelines connecting wafer-sort and final-test measurements acr
 
 </details>
 
-<img src="assets/headers/learning.svg" width="100%" alt="🌱 Currently Learning" />
 
-<img src="assets/panels/learning-panel.svg" width="100%" alt="learning illustrated pink cards" />
 
 <details>
 <summary>View learning goals as text</summary>
@@ -125,9 +122,7 @@ Built SQL/Python pipelines connecting wafer-sort and final-test measurements acr
 
 </div>
 
-<img src="assets/headers/beyond.svg" width="100%" alt="🌸 Beyond Engineering" />
-
-<img src="assets/panels/beyond-panel.svg" width="100%" alt="beyond illustrated pink cards" />
+<img src="05-beyond-engineering.png" width="100%" alt="Beyond Engineering anime basketball and spicy food illustrated panel" />
 
 <details>
 <summary>View personal interests as text</summary>
