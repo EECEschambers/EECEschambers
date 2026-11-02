@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center">My GitHub Koi 🐟</h2>
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub Koi" />
+</p>
