@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" width="100%" alt="Staneisha Chambers, Electrical and Computer Engineering, cherry blossom themed banner" />
+<img src="Staneisha%20Chambers%20Engineering%20README%20Roadmap.png" width="100%" alt="Staneisha Chambers engineering banner with cherry blossoms, illustrated Black woman engineer, and profile section roadmap" />
 
 ### 🌸 Electrical + Computer Engineering | AI/ML | Hardware × Software
 
